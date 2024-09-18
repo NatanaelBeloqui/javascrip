@@ -21,6 +21,7 @@ section {
 
 select#flista {
     width: 150px;
+    margin-top: 20px;
 }
 
 input {
