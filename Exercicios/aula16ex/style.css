@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(80, 136, 221);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.329);
+}
+
+select#flista {
+    width: 150px;
+}
+
+input {
+    &#btn_adi {
+        margin-left: 5px;
+    }
+    &#btn_fin {
+        margin-top: 10px;
+    }
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
